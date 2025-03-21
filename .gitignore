@@ -134,3 +134,17 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# Essential Git ignore entries for React Native
+node_modules/
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/build/
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+metro.config.js
+**/metro.config.js

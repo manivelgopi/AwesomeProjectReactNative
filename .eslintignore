@@ -1,0 +1,10 @@
+node_modules
+coverage
+
+*.config.js
+
+**/Pods/*
+**/*.macos.js
+**/*.windows.js
+
+CHANGELOG.md
